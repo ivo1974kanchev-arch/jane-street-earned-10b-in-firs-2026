@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jane-street-earned-10b-in-first-quarter-as-it-jzexzcqcg.vercel.app/sitemap.xml
